@@ -1,0 +1,10 @@
+.DS_Store
+.AppleDouble
+.build/
+*.app/
+*.dmg
+*.zip
+touchbar-live.png
+work/
+*.swp
+*~
